@@ -5,4 +5,4 @@
 🚀 Interested in Software & Data engineering
 
 ## 📫 Contact
-- LinkedIn: linkedin.com/in/mohcine-r
+- [LinkedIn](linkedin.com/in/mohcine-r)
