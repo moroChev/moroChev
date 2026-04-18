@@ -5,4 +5,4 @@
 🚀 Interested in Data & Software engineering, scalable systems  
 
 ## 📫 Contact
-- LinkedIn: linkedin.com/in/mohcine-r
+- LinkedIn: [linkedin.com/in/mohcine-r](https://linkedin.com/in/mohcine-r)
