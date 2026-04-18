@@ -1,8 +1,3 @@
-# Hi, I'm Mohcine 👋
+### Hi there 👋
 
-💻 Software Engineer  
-📍 Based in Berlin  
-🚀 Interested in Software & Data engineering
 
-## 📫 Contact
-- [LinkedIn](linkedin.com/in/mohcine-r)
